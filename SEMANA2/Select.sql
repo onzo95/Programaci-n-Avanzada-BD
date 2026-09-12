@@ -1,0 +1,1 @@
+Use Northwind_S02_Lab;SELECT ProductID,ProductName as producto,UnitPrice as precio,UnitsInStock as stock,QuantityPerUnit as ValorPorInventario,UnitsInStock * UnitPrice as StockValorizadoFROM dbo.Products;select LastName,FirstNamefrom dbo.Employees;
